@@ -12,19 +12,19 @@ SQA Testing & Methodologies; Test Plans, Cases & Processes; Functional Requireme
 
 6. *Projects*:
 
- 6.1: MAPMYRUN by UNDERARMOUR [link to MMR!](https://www.mapmyrun.com/my_home/)
- 6.2: [link to project!](www.benjerry.co.uk/)
- Mobile applications **“Bygates”** and **“MKTrasportation”** like **“Sooonar”** [link to Sooonar!](https://sooonar.com)
+ 1: MAPMYRUN by UNDERARMOUR [link to MMR!](https://www.mapmyrun.com/my_home/)
+ 2: [link to project!](www.benjerry.co.uk/)
+Mobile applications **“Bygates”** and **“MKTrasportation”** like **“Sooonar”** [link to Sooonar!](https://sooonar.com)
 [link to project!](https://hackspace.by/page6014787.html) 
 [link to iot!](https://iot.com.by)
-6.3 [link to hygger!](https://hygger.io) 
+ 3: [link to hygger!](https://hygger.io) 
 [link to cummunity-z!](https://community-z.com)
 [link to vendee!](https://www.vendee.by)
 
-7. Professional development, courses: MyMonday, QA-workshop on a real project; A1qA: QA Academy , Software Testing;
+ 7. Professional development, courses: MyMonday, QA-workshop on a real project; A1qA: QA Academy , Software Testing;
 Online courses: CS50 Harvard : JavaRush, programming Basics; coursehunter.net, «Testing Process Understanding»; Sololearn.com, SQL Fundamentals; www.sql-ex.ru, exercises; EPAM Training Portal, Training Automated Testing; Programming Academy in Silicon, Automation Engineer;
 
 *IVENTS*:
  OPEN IT 2018; Career Development Day 2019; IT forum; PARTY HARD 2019,TEDxYouth@Minsk,TEDx2019 ; IT Conference-Digital Unicorn ;IT Entrance 2019; Accelerate-open conference for business and IT; INQA.BY MEETUP №4;INQA.BY TESTING CHALLENGE; MEETUP Growth by Mentorship;OPEN IT 2019;Automated Testing Meetup ScienceSoft; EPAM Test Automation Insider;TeachMeSkills - lesson on Java;IT-Entrance-2019;Security Testing Meetup; Soft Skills Meetup 2 ;inQA Meetup;Minsk Java Community: data Streaming in MongoDB; Career Day; Career Today;
 
-8. *B1-B2* spoken English level
+ 8.  *B1-B2* spoken English level
